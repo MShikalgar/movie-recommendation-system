@@ -8,8 +8,6 @@ Welcome to the Movie Recommendation System project! This repository contains a P
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Notebook](#notebook)
-- [License](#license)
 
 ## Overview
 

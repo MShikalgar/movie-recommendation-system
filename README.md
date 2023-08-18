@@ -28,5 +28,15 @@ Before you begin, ensure you have met the following requirements:
    ```
    git clone https://github.com/<username>/<repository>.git
    cd <repository>
-```
+   ```
 2. Install the required packages:
+   ```
+   pip install -r requirements.txt
+   ```
+## Usage
+Follow these steps to run the movie recommendation system:
+1. Ensure you have the necessary data files in the data/ml-25m/ directory.
+2. Run the recommendation system:
+   ```
+   python mrs.py
+   ```
